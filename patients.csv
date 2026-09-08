@@ -1,0 +1,7 @@
+PatientID,Name,Department,Diagnosis,Doctor,ReceptionistID,CheckInTime
+101,John Doe,Cardiology,Heart Pain,Dr. A,12,10:00
+102,Maria Lee,Neurology,Migraine,Dr. B,15,11:30
+103,Bob White,Orthopedics,Fracture,Dr. C,12,09:45
+101,John Doe,Cardiology,Follow-up,Dr. A,12,10:15
+104,Sana Khan,Cardiology,Arrhythmia,Dr. A,17,13:00
+105,David Ray,Neurology,Seizure,Dr. B,18,14:20
